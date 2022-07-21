@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVParserAPP", "CSVParserAPP.csproj", "{E205ADC7-1661-475B-9D77-559D2E8A3186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVParserAPPTest", "..\CSVParserAPPTest\CSVParserAPPTest.csproj", "{C9BE7611-185C-4970-B387-84A9394530AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E205ADC7-1661-475B-9D77-559D2E8A3186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E205ADC7-1661-475B-9D77-559D2E8A3186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E205ADC7-1661-475B-9D77-559D2E8A3186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E205ADC7-1661-475B-9D77-559D2E8A3186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BE7611-185C-4970-B387-84A9394530AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BE7611-185C-4970-B387-84A9394530AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BE7611-185C-4970-B387-84A9394530AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BE7611-185C-4970-B387-84A9394530AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC58EE1-D8D6-4EE9-BF03-CC603F801D40}
+	EndGlobalSection
+EndGlobal
